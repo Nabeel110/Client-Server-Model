@@ -9,7 +9,7 @@
    
 
 
-# Client-Srever-Model
+# Client-Server-Model
 Interaction of Client And Server over numerous commands
 
 ## Server-Side Commands:
